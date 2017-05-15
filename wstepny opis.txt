@@ -1,1 +1,9 @@
-
+Opis wstępny
+Tester sprawnosci psychomotorycznej - WPF
+Funkcjonalności:
+1) Formularz danych osobowych - pobranie danych od użytkownika
+2) Próbny test - zapoznanie z działaniem aplikacji
+3) Badanie szybkosci reakcji na występujący komunikat
+4) Badanie szybkości reakcji na sygnał dźwiękowy
+5) Wykresy z wynikami i dopuszczalnymi progami czasowymi
+6) Zapis do pliku wyników
